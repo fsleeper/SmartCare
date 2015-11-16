@@ -1,0 +1,18 @@
+﻿{
+  "packageInfo": {
+    "schemaOwner": "SongPal",
+    "schemaType": "getHostInfo",
+    "schemaVersion": "1.1",
+    "requestId": "84E96980-271F-4AA5-ADC3-BECEAD78489A"
+  },
+
+  "partnerInfo": {
+    "partnerId": "1C99E078-325F-4F1E-A066-8BB1E6FB1A16"
+  },
+
+  "appInfo": {
+    "appName": "SongPal",
+    "appVersion": "3.2.1.3"
+  },
+
+}
