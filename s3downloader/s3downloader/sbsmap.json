@@ -1,0 +1,31 @@
+{
+    "jsonpaths": [
+      "$.partnerInfo.partnerId",
+      "$.appInfo.build_platform",
+      "$.appInfo.name",
+      "$.appInfo.version",
+      "$.environmentInfo.country",
+      "$.environmentInfo.device_id",
+      "$.environmentInfo.language",
+      "$.environmentInfo.modelName",
+      "$.environmentInfo.os_version",
+      "$.environmentInfo.timeZoneOffset",
+      "$.environmentInfo.region",
+      "$.cameraInfo.cameraCategory",
+      "$.cameraInfo.firmwareVersion",
+      "$.cameraInfo.lensFirmwareVersion",
+      "$.cameraInfo.lensModel",
+      "$.cameraInfo.modelName",
+      "$.cameraInfo.platformVersion",
+      "$.cameraInfo.pmcaInfo",
+      "$.cameraInfo.settingInfo",
+      "$.cameraInfo.shootingMode",
+      "$.productInfo.modelName",
+      "$.pagination.category_id",
+      "$.pagination.count",
+      "$.pagination.filter",
+      "$.pagination.start"
+      ]
+}
+
+

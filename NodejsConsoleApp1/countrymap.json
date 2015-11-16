@@ -1,0 +1,8 @@
+{
+    "jsonpaths": [
+        "$.EnglishShortName",
+        "$.Alpha2Code",
+        "$.Alpha3Code",
+        "$.NumericCode"
+    ]
+}

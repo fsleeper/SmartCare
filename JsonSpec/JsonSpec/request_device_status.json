@@ -1,0 +1,12 @@
+{
+    "jsonpaths": [
+        "$.requestid",
+        "$.request.deviceStatus.brightness",
+        "$.request.deviceStatus.isFromQrScan",
+        "$.request.deviceStatus.modelName",
+        "$.request.deviceStatus.isNetworkConnected",
+        "$.request.deviceStatus.areParentalControlsEnabled",
+        "$.request.deviceStatus.volume"
+    ]
+}
+

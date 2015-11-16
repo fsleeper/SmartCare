@@ -1,0 +1,12 @@
+{
+    "jsonpaths": [
+        "$.requestid",
+        "$.request.environmentInfo.country",
+        "$.request.environmentInfo.device_id",
+        "$.request.environmentInfo.language",
+        "$.request.environmentInfo.modelName",
+        "$.request.environmentInfo.os_version",
+        "$.request.environmentInfo.timeZoneOffset"
+    ]
+}
+

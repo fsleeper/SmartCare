@@ -1,0 +1,6 @@
+{
+    "jsonpaths": [
+        "$.requestid",
+        "$.request.partnerInfo.partnerId"
+    ]
+}

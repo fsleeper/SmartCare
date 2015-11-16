@@ -1,0 +1,21 @@
+{
+  "jsonpaths": [
+    "$.dynamoContainer.name",
+    "$.dynamoContainer.version",
+    "$.dynamoContainer.token",
+    "$.dynamoContainer.timestamp",
+    "$.partnerInfo.partnerId",
+    "$.appInfo.build_platform",
+    "$.appInfo.name",
+    "$.appInfo.version",
+    "$.appInfo.metadata.DeviceSetupScenario",
+    "$.environmentInfo.country",
+    "$.environmentInfo.device_id",
+    "$.environmentInfo.language",
+    "$.environmentInfo.modelName",
+    "$.environmentInfo.timeZoneOffset",
+    "$.environmentInfo.os_version",
+    "$.environmentInfo.region",
+    "$.productSet"
+  ]
+}

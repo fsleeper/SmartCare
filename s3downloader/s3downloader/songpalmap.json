@@ -1,0 +1,19 @@
+{
+    "jsonpaths": [
+      "$.partnerInfo.partnerId",
+      "$.appInfo.build_platform",
+      "$.appInfo.name",
+      "$.appInfo.version",
+      "$.appInfo.metadata.DeviceSetupScenario",
+      "$.environmentInfo.country",
+      "$.environmentInfo.device_id",
+      "$.environmentInfo.language",
+      "$.environmentInfo.modelName",
+      "$.environmentInfo.os_version",
+      "$.environmentInfo.timeZoneOffset",
+      "$.environmentInfo.region",
+      "$.productSet"
+      ]
+}
+
+

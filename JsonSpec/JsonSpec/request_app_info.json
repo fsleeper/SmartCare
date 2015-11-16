@@ -1,0 +1,8 @@
+{
+    "jsonpaths": [
+        "$.requestid",
+        "$.request.appInfo.build_platform",
+        "$.request.appInfo.name",
+        "$.request.appInfo.version"
+    ]
+}

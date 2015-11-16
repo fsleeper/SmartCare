@@ -1,0 +1,249 @@
+{"EnglishShortName":"Afghanistan","Alpha2Code":"AF","Alpha3Code":"AFG","NumericCode":4}
+{"EnglishShortName":"Aland Islands","Alpha2Code":"AX","Alpha3Code":"ALA","NumericCode":248}
+{"EnglishShortName":"Albania","Alpha2Code":"AL","Alpha3Code":"ALB","NumericCode":8}
+{"EnglishShortName":"Algeria","Alpha2Code":"DZ","Alpha3Code":"DZA","NumericCode":12}
+{"EnglishShortName":"American Samoa","Alpha2Code":"AS","Alpha3Code":"ASM","NumericCode":16}
+{"EnglishShortName":"Andorra","Alpha2Code":"AD","Alpha3Code":"AND","NumericCode":20}
+{"EnglishShortName":"Angola","Alpha2Code":"AO","Alpha3Code":"AGO","NumericCode":24}
+{"EnglishShortName":"Anguilla","Alpha2Code":"AI","Alpha3Code":"AIA","NumericCode":660}
+{"EnglishShortName":"Antarctica","Alpha2Code":"AQ","Alpha3Code":"ATA","NumericCode":10}
+{"EnglishShortName":"Antigua and Barbuda","Alpha2Code":"AG","Alpha3Code":"ATG","NumericCode":28}
+{"EnglishShortName":"Argentina","Alpha2Code":"AR","Alpha3Code":"ARG","NumericCode":32}
+{"EnglishShortName":"Armenia","Alpha2Code":"AM","Alpha3Code":"ARM","NumericCode":51}
+{"EnglishShortName":"Aruba","Alpha2Code":"AW","Alpha3Code":"ABW","NumericCode":533}
+{"EnglishShortName":"Australia","Alpha2Code":"AU","Alpha3Code":"AUS","NumericCode":36}
+{"EnglishShortName":"Austria","Alpha2Code":"AT","Alpha3Code":"AUT","NumericCode":40}
+{"EnglishShortName":"Azerbaijan","Alpha2Code":"AZ","Alpha3Code":"AZE","NumericCode":31}
+{"EnglishShortName":"Bahamas","Alpha2Code":"BS","Alpha3Code":"BHS","NumericCode":44}
+{"EnglishShortName":"Bahrain","Alpha2Code":"BH","Alpha3Code":"BHR","NumericCode":48}
+{"EnglishShortName":"Bangladesh","Alpha2Code":"BD","Alpha3Code":"BGD","NumericCode":50}
+{"EnglishShortName":"Barbados","Alpha2Code":"BB","Alpha3Code":"BRB","NumericCode":52}
+{"EnglishShortName":"Belarus","Alpha2Code":"BY","Alpha3Code":"BLR","NumericCode":112}
+{"EnglishShortName":"Belgium","Alpha2Code":"BE","Alpha3Code":"BEL","NumericCode":56}
+{"EnglishShortName":"Belize","Alpha2Code":"BZ","Alpha3Code":"BLZ","NumericCode":84}
+{"EnglishShortName":"Benin","Alpha2Code":"BJ","Alpha3Code":"BEN","NumericCode":204}
+{"EnglishShortName":"Bermuda","Alpha2Code":"BM","Alpha3Code":"BMU","NumericCode":60}
+{"EnglishShortName":"Bhutan","Alpha2Code":"BT","Alpha3Code":"BTN","NumericCode":64}
+{"EnglishShortName":"Bolivia (Plurinational State of)","Alpha2Code":"BO","Alpha3Code":"BOL","NumericCode":68}
+{"EnglishShortName":"Bonaire, Sint Eustatius and Saba","Alpha2Code":"BQ","Alpha3Code":"BES","NumericCode":535}
+{"EnglishShortName":"Bosnia and Herzegovina","Alpha2Code":"BA","Alpha3Code":"BIH","NumericCode":70}
+{"EnglishShortName":"Botswana","Alpha2Code":"BW","Alpha3Code":"BWA","NumericCode":72}
+{"EnglishShortName":"Bouvet Island","Alpha2Code":"BV","Alpha3Code":"BVT","NumericCode":74}
+{"EnglishShortName":"Brazil","Alpha2Code":"BR","Alpha3Code":"BRA","NumericCode":76}
+{"EnglishShortName":"British Indian Ocean Territory","Alpha2Code":"IO","Alpha3Code":"IOT","NumericCode":86}
+{"EnglishShortName":"Brunei Darussalam","Alpha2Code":"BN","Alpha3Code":"BRN","NumericCode":96}
+{"EnglishShortName":"Bulgaria","Alpha2Code":"BG","Alpha3Code":"BGR","NumericCode":100}
+{"EnglishShortName":"Burkina Faso","Alpha2Code":"BF","Alpha3Code":"BFA","NumericCode":854}
+{"EnglishShortName":"Burundi","Alpha2Code":"BI","Alpha3Code":"BDI","NumericCode":108}
+{"EnglishShortName":"Cambodia","Alpha2Code":"KH","Alpha3Code":"KHM","NumericCode":116}
+{"EnglishShortName":"Cameroon","Alpha2Code":"CM","Alpha3Code":"CMR","NumericCode":120}
+{"EnglishShortName":"Canada","Alpha2Code":"CA","Alpha3Code":"CAN","NumericCode":124}
+{"EnglishShortName":"Cabo Verde","Alpha2Code":"CV","Alpha3Code":"CPV","NumericCode":132}
+{"EnglishShortName":"Cayman Islands","Alpha2Code":"KY","Alpha3Code":"CYM","NumericCode":136}
+{"EnglishShortName":"Central African Republic","Alpha2Code":"CF","Alpha3Code":"CAF","NumericCode":140}
+{"EnglishShortName":"Chad","Alpha2Code":"TD","Alpha3Code":"TCD","NumericCode":148}
+{"EnglishShortName":"Chile","Alpha2Code":"CL","Alpha3Code":"CHL","NumericCode":152}
+{"EnglishShortName":"China","Alpha2Code":"CN","Alpha3Code":"CHN","NumericCode":156}
+{"EnglishShortName":"Christmas Island","Alpha2Code":"CX","Alpha3Code":"CXR","NumericCode":162}
+{"EnglishShortName":"Cocos (Keeling) Islands","Alpha2Code":"CC","Alpha3Code":"CCK","NumericCode":166}
+{"EnglishShortName":"Colombia","Alpha2Code":"CO","Alpha3Code":"COL","NumericCode":170}
+{"EnglishShortName":"Comoros","Alpha2Code":"KM","Alpha3Code":"COM","NumericCode":174}
+{"EnglishShortName":"Congo","Alpha2Code":"CG","Alpha3Code":"COG","NumericCode":178}
+{"EnglishShortName":"Congo (Democratic Republic of the)","Alpha2Code":"CD","Alpha3Code":"COD","NumericCode":180}
+{"EnglishShortName":"Cook Islands","Alpha2Code":"CK","Alpha3Code":"COK","NumericCode":184}
+{"EnglishShortName":"Costa Rica","Alpha2Code":"CR","Alpha3Code":"CRI","NumericCode":188}
+{"EnglishShortName":"Cote d'Ivoire","Alpha2Code":"CI","Alpha3Code":"CIV","NumericCode":384}
+{"EnglishShortName":"Croatia","Alpha2Code":"HR","Alpha3Code":"HRV","NumericCode":191}
+{"EnglishShortName":"Cuba","Alpha2Code":"CU","Alpha3Code":"CUB","NumericCode":192}
+{"EnglishShortName":"Curacao","Alpha2Code":"CW","Alpha3Code":"CUW","NumericCode":531}
+{"EnglishShortName":"Cyprus","Alpha2Code":"CY","Alpha3Code":"CYP","NumericCode":196}
+{"EnglishShortName":"Czech Republic","Alpha2Code":"CZ","Alpha3Code":"CZE","NumericCode":203}
+{"EnglishShortName":"Denmark","Alpha2Code":"DK","Alpha3Code":"DNK","NumericCode":208}
+{"EnglishShortName":"Djibouti","Alpha2Code":"DJ","Alpha3Code":"DJI","NumericCode":262}
+{"EnglishShortName":"Dominica","Alpha2Code":"DM","Alpha3Code":"DMA","NumericCode":212}
+{"EnglishShortName":"Dominican Republic","Alpha2Code":"DO","Alpha3Code":"DOM","NumericCode":214}
+{"EnglishShortName":"Ecuador","Alpha2Code":"EC","Alpha3Code":"ECU","NumericCode":218}
+{"EnglishShortName":"Egypt","Alpha2Code":"EG","Alpha3Code":"EGY","NumericCode":818}
+{"EnglishShortName":"El Salvador","Alpha2Code":"SV","Alpha3Code":"SLV","NumericCode":222}
+{"EnglishShortName":"Equatorial Guinea","Alpha2Code":"GQ","Alpha3Code":"GNQ","NumericCode":226}
+{"EnglishShortName":"Eritrea","Alpha2Code":"ER","Alpha3Code":"ERI","NumericCode":232}
+{"EnglishShortName":"Estonia","Alpha2Code":"EE","Alpha3Code":"EST","NumericCode":233}
+{"EnglishShortName":"Ethiopia","Alpha2Code":"ET","Alpha3Code":"ETH","NumericCode":231}
+{"EnglishShortName":"Falkland Islands (Malvinas)","Alpha2Code":"FK","Alpha3Code":"FLK","NumericCode":238}
+{"EnglishShortName":"Faroe Islands","Alpha2Code":"FO","Alpha3Code":"FRO","NumericCode":234}
+{"EnglishShortName":"Fiji","Alpha2Code":"FJ","Alpha3Code":"FJI","NumericCode":242}
+{"EnglishShortName":"Finland","Alpha2Code":"FI","Alpha3Code":"FIN","NumericCode":246}
+{"EnglishShortName":"France","Alpha2Code":"FR","Alpha3Code":"FRA","NumericCode":250}
+{"EnglishShortName":"French Guiana","Alpha2Code":"GF","Alpha3Code":"GUF","NumericCode":254}
+{"EnglishShortName":"French Polynesia","Alpha2Code":"PF","Alpha3Code":"PYF","NumericCode":258}
+{"EnglishShortName":"French Southern Territories","Alpha2Code":"TF","Alpha3Code":"ATF","NumericCode":260}
+{"EnglishShortName":"Gabon","Alpha2Code":"GA","Alpha3Code":"GAB","NumericCode":266}
+{"EnglishShortName":"Gambia","Alpha2Code":"GM","Alpha3Code":"GMB","NumericCode":270}
+{"EnglishShortName":"Georgia","Alpha2Code":"GE","Alpha3Code":"GEO","NumericCode":268}
+{"EnglishShortName":"Germany","Alpha2Code":"DE","Alpha3Code":"DEU","NumericCode":276}
+{"EnglishShortName":"Ghana","Alpha2Code":"GH","Alpha3Code":"GHA","NumericCode":288}
+{"EnglishShortName":"Gibraltar","Alpha2Code":"GI","Alpha3Code":"GIB","NumericCode":292}
+{"EnglishShortName":"Greece","Alpha2Code":"GR","Alpha3Code":"GRC","NumericCode":300}
+{"EnglishShortName":"Greenland","Alpha2Code":"GL","Alpha3Code":"GRL","NumericCode":304}
+{"EnglishShortName":"Grenada","Alpha2Code":"GD","Alpha3Code":"GRD","NumericCode":308}
+{"EnglishShortName":"Guadeloupe","Alpha2Code":"GP","Alpha3Code":"GLP","NumericCode":312}
+{"EnglishShortName":"Guam","Alpha2Code":"GU","Alpha3Code":"GUM","NumericCode":316}
+{"EnglishShortName":"Guatemala","Alpha2Code":"GT","Alpha3Code":"GTM","NumericCode":320}
+{"EnglishShortName":"Guernsey","Alpha2Code":"GG","Alpha3Code":"GGY","NumericCode":831}
+{"EnglishShortName":"Guinea","Alpha2Code":"GN","Alpha3Code":"GIN","NumericCode":324}
+{"EnglishShortName":"Guinea-Bissau","Alpha2Code":"GW","Alpha3Code":"GNB","NumericCode":624}
+{"EnglishShortName":"Guyana","Alpha2Code":"GY","Alpha3Code":"GUY","NumericCode":328}
+{"EnglishShortName":"Haiti","Alpha2Code":"HT","Alpha3Code":"HTI","NumericCode":332}
+{"EnglishShortName":"Heard Island and McDonald Islands","Alpha2Code":"HM","Alpha3Code":"HMD","NumericCode":334}
+{"EnglishShortName":"Holy See","Alpha2Code":"VA","Alpha3Code":"VAT","NumericCode":336}
+{"EnglishShortName":"Honduras","Alpha2Code":"HN","Alpha3Code":"HND","NumericCode":340}
+{"EnglishShortName":"Hong Kong","Alpha2Code":"HK","Alpha3Code":"HKG","NumericCode":344}
+{"EnglishShortName":"Hungary","Alpha2Code":"HU","Alpha3Code":"HUN","NumericCode":348}
+{"EnglishShortName":"Iceland","Alpha2Code":"IS","Alpha3Code":"ISL","NumericCode":352}
+{"EnglishShortName":"India","Alpha2Code":"IN","Alpha3Code":"IND","NumericCode":356}
+{"EnglishShortName":"Indonesia","Alpha2Code":"ID","Alpha3Code":"IDN","NumericCode":360}
+{"EnglishShortName":"Iran (Islamic Republic of)","Alpha2Code":"IR","Alpha3Code":"IRN","NumericCode":364}
+{"EnglishShortName":"Iraq","Alpha2Code":"IQ","Alpha3Code":"IRQ","NumericCode":368}
+{"EnglishShortName":"Ireland","Alpha2Code":"IE","Alpha3Code":"IRL","NumericCode":372}
+{"EnglishShortName":"Isle of Man","Alpha2Code":"IM","Alpha3Code":"IMN","NumericCode":833}
+{"EnglishShortName":"Israel","Alpha2Code":"IL","Alpha3Code":"ISR","NumericCode":376}
+{"EnglishShortName":"Italy","Alpha2Code":"IT","Alpha3Code":"ITA","NumericCode":380}
+{"EnglishShortName":"Jamaica","Alpha2Code":"JM","Alpha3Code":"JAM","NumericCode":388}
+{"EnglishShortName":"Japan","Alpha2Code":"JP","Alpha3Code":"JPN","NumericCode":392}
+{"EnglishShortName":"Jersey","Alpha2Code":"JE","Alpha3Code":"JEY","NumericCode":832}
+{"EnglishShortName":"Jordan","Alpha2Code":"JO","Alpha3Code":"JOR","NumericCode":400}
+{"EnglishShortName":"Kazakhstan","Alpha2Code":"KZ","Alpha3Code":"KAZ","NumericCode":398}
+{"EnglishShortName":"Kenya","Alpha2Code":"KE","Alpha3Code":"KEN","NumericCode":404}
+{"EnglishShortName":"Kiribati","Alpha2Code":"KI","Alpha3Code":"KIR","NumericCode":296}
+{"EnglishShortName":"Korea (Democratic People's Republic of)","Alpha2Code":"KP","Alpha3Code":"PRK","NumericCode":408}
+{"EnglishShortName":"Korea (Republic of)","Alpha2Code":"KR","Alpha3Code":"KOR","NumericCode":410}
+{"EnglishShortName":"Kuwait","Alpha2Code":"KW","Alpha3Code":"KWT","NumericCode":414}
+{"EnglishShortName":"Kyrgyzstan","Alpha2Code":"KG","Alpha3Code":"KGZ","NumericCode":417}
+{"EnglishShortName":"Lao People's Democratic Republic","Alpha2Code":"LA","Alpha3Code":"LAO","NumericCode":418}
+{"EnglishShortName":"Latvia","Alpha2Code":"LV","Alpha3Code":"LVA","NumericCode":428}
+{"EnglishShortName":"Lebanon","Alpha2Code":"LB","Alpha3Code":"LBN","NumericCode":422}
+{"EnglishShortName":"Lesotho","Alpha2Code":"LS","Alpha3Code":"LSO","NumericCode":426}
+{"EnglishShortName":"Liberia","Alpha2Code":"LR","Alpha3Code":"LBR","NumericCode":430}
+{"EnglishShortName":"Libya","Alpha2Code":"LY","Alpha3Code":"LBY","NumericCode":434}
+{"EnglishShortName":"Liechtenstein","Alpha2Code":"LI","Alpha3Code":"LIE","NumericCode":438}
+{"EnglishShortName":"Lithuania","Alpha2Code":"LT","Alpha3Code":"LTU","NumericCode":440}
+{"EnglishShortName":"Luxembourg","Alpha2Code":"LU","Alpha3Code":"LUX","NumericCode":442}
+{"EnglishShortName":"Macao","Alpha2Code":"MO","Alpha3Code":"MAC","NumericCode":446}
+{"EnglishShortName":"Macedonia (the former Yugoslav Republic of)","Alpha2Code":"MK","Alpha3Code":"MKD","NumericCode":807}
+{"EnglishShortName":"Madagascar","Alpha2Code":"MG","Alpha3Code":"MDG","NumericCode":450}
+{"EnglishShortName":"Malawi","Alpha2Code":"MW","Alpha3Code":"MWI","NumericCode":454}
+{"EnglishShortName":"Malaysia","Alpha2Code":"MY","Alpha3Code":"MYS","NumericCode":458}
+{"EnglishShortName":"Maldives","Alpha2Code":"MV","Alpha3Code":"MDV","NumericCode":462}
+{"EnglishShortName":"Mali","Alpha2Code":"ML","Alpha3Code":"MLI","NumericCode":466}
+{"EnglishShortName":"Malta","Alpha2Code":"MT","Alpha3Code":"MLT","NumericCode":470}
+{"EnglishShortName":"Marshall Islands","Alpha2Code":"MH","Alpha3Code":"MHL","NumericCode":584}
+{"EnglishShortName":"Martinique","Alpha2Code":"MQ","Alpha3Code":"MTQ","NumericCode":474}
+{"EnglishShortName":"Mauritania","Alpha2Code":"MR","Alpha3Code":"MRT","NumericCode":478}
+{"EnglishShortName":"Mauritius","Alpha2Code":"MU","Alpha3Code":"MUS","NumericCode":480}
+{"EnglishShortName":"Mayotte","Alpha2Code":"YT","Alpha3Code":"MYT","NumericCode":175}
+{"EnglishShortName":"Mexico","Alpha2Code":"MX","Alpha3Code":"MEX","NumericCode":484}
+{"EnglishShortName":"Micronesia (Federated States of)","Alpha2Code":"FM","Alpha3Code":"FSM","NumericCode":583}
+{"EnglishShortName":"Moldova (Republic of)","Alpha2Code":"MD","Alpha3Code":"MDA","NumericCode":498}
+{"EnglishShortName":"Monaco","Alpha2Code":"MC","Alpha3Code":"MCO","NumericCode":492}
+{"EnglishShortName":"Mongolia","Alpha2Code":"MN","Alpha3Code":"MNG","NumericCode":496}
+{"EnglishShortName":"Montenegro","Alpha2Code":"ME","Alpha3Code":"MNE","NumericCode":499}
+{"EnglishShortName":"Montserrat","Alpha2Code":"MS","Alpha3Code":"MSR","NumericCode":500}
+{"EnglishShortName":"Morocco","Alpha2Code":"MA","Alpha3Code":"MAR","NumericCode":504}
+{"EnglishShortName":"Mozambique","Alpha2Code":"MZ","Alpha3Code":"MOZ","NumericCode":508}
+{"EnglishShortName":"Myanmar","Alpha2Code":"MM","Alpha3Code":"MMR","NumericCode":104}
+{"EnglishShortName":"Namibia","Alpha2Code":"NA","Alpha3Code":"NAM","NumericCode":516}
+{"EnglishShortName":"Nauru","Alpha2Code":"NR","Alpha3Code":"NRU","NumericCode":520}
+{"EnglishShortName":"Nepal","Alpha2Code":"NP","Alpha3Code":"NPL","NumericCode":524}
+{"EnglishShortName":"Netherlands","Alpha2Code":"NL","Alpha3Code":"NLD","NumericCode":528}
+{"EnglishShortName":"New Caledonia","Alpha2Code":"NC","Alpha3Code":"NCL","NumericCode":540}
+{"EnglishShortName":"New Zealand","Alpha2Code":"NZ","Alpha3Code":"NZL","NumericCode":554}
+{"EnglishShortName":"Nicaragua","Alpha2Code":"NI","Alpha3Code":"NIC","NumericCode":558}
+{"EnglishShortName":"Niger","Alpha2Code":"NE","Alpha3Code":"NER","NumericCode":562}
+{"EnglishShortName":"Nigeria","Alpha2Code":"NG","Alpha3Code":"NGA","NumericCode":566}
+{"EnglishShortName":"Niue","Alpha2Code":"NU","Alpha3Code":"NIU","NumericCode":570}
+{"EnglishShortName":"Norfolk Island","Alpha2Code":"NF","Alpha3Code":"NFK","NumericCode":574}
+{"EnglishShortName":"Northern Mariana Islands","Alpha2Code":"MP","Alpha3Code":"MNP","NumericCode":580}
+{"EnglishShortName":"Norway","Alpha2Code":"NO","Alpha3Code":"NOR","NumericCode":578}
+{"EnglishShortName":"Oman","Alpha2Code":"OM","Alpha3Code":"OMN","NumericCode":512}
+{"EnglishShortName":"Pakistan","Alpha2Code":"PK","Alpha3Code":"PAK","NumericCode":586}
+{"EnglishShortName":"Palau","Alpha2Code":"PW","Alpha3Code":"PLW","NumericCode":585}
+{"EnglishShortName":"Palestine, State of","Alpha2Code":"PS","Alpha3Code":"PSE","NumericCode":275}
+{"EnglishShortName":"Panama","Alpha2Code":"PA","Alpha3Code":"PAN","NumericCode":591}
+{"EnglishShortName":"Papua New Guinea","Alpha2Code":"PG","Alpha3Code":"PNG","NumericCode":598}
+{"EnglishShortName":"Paraguay","Alpha2Code":"PY","Alpha3Code":"PRY","NumericCode":600}
+{"EnglishShortName":"Peru","Alpha2Code":"PE","Alpha3Code":"PER","NumericCode":604}
+{"EnglishShortName":"Philippines","Alpha2Code":"PH","Alpha3Code":"PHL","NumericCode":608}
+{"EnglishShortName":"Pitcairn","Alpha2Code":"PN","Alpha3Code":"PCN","NumericCode":612}
+{"EnglishShortName":"Poland","Alpha2Code":"PL","Alpha3Code":"POL","NumericCode":616}
+{"EnglishShortName":"Portugal","Alpha2Code":"PT","Alpha3Code":"PRT","NumericCode":620}
+{"EnglishShortName":"Puerto Rico","Alpha2Code":"PR","Alpha3Code":"PRI","NumericCode":630}
+{"EnglishShortName":"Qatar","Alpha2Code":"QA","Alpha3Code":"QAT","NumericCode":634}
+{"EnglishShortName":"Reunion","Alpha2Code":"RE","Alpha3Code":"REU","NumericCode":638}
+{"EnglishShortName":"Romania","Alpha2Code":"RO","Alpha3Code":"ROU","NumericCode":642}
+{"EnglishShortName":"Russian Federation","Alpha2Code":"RU","Alpha3Code":"RUS","NumericCode":643}
+{"EnglishShortName":"Rwanda","Alpha2Code":"RW","Alpha3Code":"RWA","NumericCode":646}
+{"EnglishShortName":"Saint Barthelemy","Alpha2Code":"BL","Alpha3Code":"BLM","NumericCode":652}
+{"EnglishShortName":"Saint Helena, Ascension and Tristan da Cunha","Alpha2Code":"SH","Alpha3Code":"SHN","NumericCode":654}
+{"EnglishShortName":"Saint Kitts and Nevis","Alpha2Code":"KN","Alpha3Code":"KNA","NumericCode":659}
+{"EnglishShortName":"Saint Lucia","Alpha2Code":"LC","Alpha3Code":"LCA","NumericCode":662}
+{"EnglishShortName":"Saint Martin (French part)","Alpha2Code":"MF","Alpha3Code":"MAF","NumericCode":663}
+{"EnglishShortName":"Saint Pierre and Miquelon","Alpha2Code":"PM","Alpha3Code":"SPM","NumericCode":666}
+{"EnglishShortName":"Saint Vincent and the Grenadines","Alpha2Code":"VC","Alpha3Code":"VCT","NumericCode":670}
+{"EnglishShortName":"Samoa","Alpha2Code":"WS","Alpha3Code":"WSM","NumericCode":882}
+{"EnglishShortName":"San Marino","Alpha2Code":"SM","Alpha3Code":"SMR","NumericCode":674}
+{"EnglishShortName":"Sao Tome and Principe","Alpha2Code":"ST","Alpha3Code":"STP","NumericCode":678}
+{"EnglishShortName":"Saudi Arabia","Alpha2Code":"SA","Alpha3Code":"SAU","NumericCode":682}
+{"EnglishShortName":"Senegal","Alpha2Code":"SN","Alpha3Code":"SEN","NumericCode":686}
+{"EnglishShortName":"Serbia","Alpha2Code":"RS","Alpha3Code":"SRB","NumericCode":688}
+{"EnglishShortName":"Seychelles","Alpha2Code":"SC","Alpha3Code":"SYC","NumericCode":690}
+{"EnglishShortName":"Sierra Leone","Alpha2Code":"SL","Alpha3Code":"SLE","NumericCode":694}
+{"EnglishShortName":"Singapore","Alpha2Code":"SG","Alpha3Code":"SGP","NumericCode":702}
+{"EnglishShortName":"Sint Maarten (Dutch part)","Alpha2Code":"SX","Alpha3Code":"SXM","NumericCode":534}
+{"EnglishShortName":"Slovakia","Alpha2Code":"SK","Alpha3Code":"SVK","NumericCode":703}
+{"EnglishShortName":"Slovenia","Alpha2Code":"SI","Alpha3Code":"SVN","NumericCode":705}
+{"EnglishShortName":"Solomon Islands","Alpha2Code":"SB","Alpha3Code":"SLB","NumericCode":90}
+{"EnglishShortName":"Somalia","Alpha2Code":"SO","Alpha3Code":"SOM","NumericCode":706}
+{"EnglishShortName":"South Africa","Alpha2Code":"ZA","Alpha3Code":"ZAF","NumericCode":710}
+{"EnglishShortName":"South Georgia and the South Sandwich Islands","Alpha2Code":"GS","Alpha3Code":"SGS","NumericCode":239}
+{"EnglishShortName":"South Sudan","Alpha2Code":"SS","Alpha3Code":"SSD","NumericCode":728}
+{"EnglishShortName":"Spain","Alpha2Code":"ES","Alpha3Code":"ESP","NumericCode":724}
+{"EnglishShortName":"Sri Lanka","Alpha2Code":"LK","Alpha3Code":"LKA","NumericCode":144}
+{"EnglishShortName":"Sudan","Alpha2Code":"SD","Alpha3Code":"SDN","NumericCode":729}
+{"EnglishShortName":"Suriname","Alpha2Code":"SR","Alpha3Code":"SUR","NumericCode":740}
+{"EnglishShortName":"Svalbard and Jan Mayen","Alpha2Code":"SJ","Alpha3Code":"SJM","NumericCode":744}
+{"EnglishShortName":"Swaziland","Alpha2Code":"SZ","Alpha3Code":"SWZ","NumericCode":748}
+{"EnglishShortName":"Sweden","Alpha2Code":"SE","Alpha3Code":"SWE","NumericCode":752}
+{"EnglishShortName":"Switzerland","Alpha2Code":"CH","Alpha3Code":"CHE","NumericCode":756}
+{"EnglishShortName":"Syrian Arab Republic","Alpha2Code":"SY","Alpha3Code":"SYR","NumericCode":760}
+{"EnglishShortName":"Taiwan, Province of China","Alpha2Code":"TW","Alpha3Code":"TWN","NumericCode":158}
+{"EnglishShortName":"Tajikistan","Alpha2Code":"TJ","Alpha3Code":"TJK","NumericCode":762}
+{"EnglishShortName":"Tanzania, United Republic of","Alpha2Code":"TZ","Alpha3Code":"TZA","NumericCode":834}
+{"EnglishShortName":"Thailand","Alpha2Code":"TH","Alpha3Code":"THA","NumericCode":764}
+{"EnglishShortName":"Timor-Leste","Alpha2Code":"TL","Alpha3Code":"TLS","NumericCode":626}
+{"EnglishShortName":"Togo","Alpha2Code":"TG","Alpha3Code":"TGO","NumericCode":768}
+{"EnglishShortName":"Tokelau","Alpha2Code":"TK","Alpha3Code":"TKL","NumericCode":772}
+{"EnglishShortName":"Tonga","Alpha2Code":"TO","Alpha3Code":"TON","NumericCode":776}
+{"EnglishShortName":"Trinidad and Tobago","Alpha2Code":"TT","Alpha3Code":"TTO","NumericCode":780}
+{"EnglishShortName":"Tunisia","Alpha2Code":"TN","Alpha3Code":"TUN","NumericCode":788}
+{"EnglishShortName":"Turkey","Alpha2Code":"TR","Alpha3Code":"TUR","NumericCode":792}
+{"EnglishShortName":"Turkmenistan","Alpha2Code":"TM","Alpha3Code":"TKM","NumericCode":795}
+{"EnglishShortName":"Turks and Caicos Islands","Alpha2Code":"TC","Alpha3Code":"TCA","NumericCode":796}
+{"EnglishShortName":"Tuvalu","Alpha2Code":"TV","Alpha3Code":"TUV","NumericCode":798}
+{"EnglishShortName":"Uganda","Alpha2Code":"UG","Alpha3Code":"UGA","NumericCode":800}
+{"EnglishShortName":"Ukraine","Alpha2Code":"UA","Alpha3Code":"UKR","NumericCode":804}
+{"EnglishShortName":"United Arab Emirates","Alpha2Code":"AE","Alpha3Code":"ARE","NumericCode":784}
+{"EnglishShortName":"United Kingdom of Great Britain and Northern Ireland","Alpha2Code":"GB","Alpha3Code":"GBR","NumericCode":826}
+{"EnglishShortName":"United States of America","Alpha2Code":"US","Alpha3Code":"USA","NumericCode":840}
+{"EnglishShortName":"United States Minor Outlying Islands","Alpha2Code":"UM","Alpha3Code":"UMI","NumericCode":581}
+{"EnglishShortName":"Uruguay","Alpha2Code":"UY","Alpha3Code":"URY","NumericCode":858}
+{"EnglishShortName":"Uzbekistan","Alpha2Code":"UZ","Alpha3Code":"UZB","NumericCode":860}
+{"EnglishShortName":"Vanuatu","Alpha2Code":"VU","Alpha3Code":"VUT","NumericCode":548}
+{"EnglishShortName":"Venezuela (Bolivarian Republic of)","Alpha2Code":"VE","Alpha3Code":"VEN","NumericCode":862}
+{"EnglishShortName":"Viet Nam","Alpha2Code":"VN","Alpha3Code":"VNM","NumericCode":704}
+{"EnglishShortName":"Virgin Islands (British)","Alpha2Code":"VG","Alpha3Code":"VGB","NumericCode":92}
+{"EnglishShortName":"Virgin Islands (U.S.)","Alpha2Code":"VI","Alpha3Code":"VIR","NumericCode":850}
+{"EnglishShortName":"Wallis and Futuna","Alpha2Code":"WF","Alpha3Code":"WLF","NumericCode":876}
+{"EnglishShortName":"Western Sahara","Alpha2Code":"EH","Alpha3Code":"ESH","NumericCode":732}
+{"EnglishShortName":"Yemen","Alpha2Code":"YE","Alpha3Code":"YEM","NumericCode":887}
+{"EnglishShortName":"Zambia","Alpha2Code":"ZM","Alpha3Code":"ZMB","NumericCode":894}
+{"EnglishShortName":"Zimbabwe","Alpha2Code":"ZW","Alpha3Code":"ZWE","NumericCode":716}

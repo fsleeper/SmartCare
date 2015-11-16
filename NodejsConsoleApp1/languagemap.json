@@ -1,0 +1,13 @@
+{
+    "jsonpaths": [
+        "$.LanguageFamily",
+        "$.LanguageName",
+        "$.NativeName",
+        "$.ISO639-1",
+        "$.ISO639-2-T",
+        "$.ISO-639-2-B",
+        "$.ISO-639-3",
+        "$.ISO-639-6",
+        "$.Notes"
+    ]
+}
