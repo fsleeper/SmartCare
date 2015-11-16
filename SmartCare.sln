@@ -1,0 +1,71 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "SchemaParse", "SchemaParse\SchemaParse.njsproj", "{43954AAA-9425-4E66-8BD0-7FCCA638CF17}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Redshift", "Redshift", "{D453454E-D12C-4C2F-8FA2-DCA829092B38}"
+	ProjectSection(SolutionItems) = preProject
+		\\.psf\Home\Documents\Projects\SmartCare\Redshift\Call Center Load.sql = \\.psf\Home\Documents\Projects\SmartCare\Redshift\Call Center Load.sql
+		\\.psf\Home\Documents\Projects\SmartCare\Redshift\Create Tables TEMP only.sql = \\.psf\Home\Documents\Projects\SmartCare\Redshift\Create Tables TEMP only.sql
+		\\.psf\Home\Documents\Projects\SmartCare\Redshift\Firehose Tables.sql = \\.psf\Home\Documents\Projects\SmartCare\Redshift\Firehose Tables.sql
+		\\.psf\Home\Documents\Projects\SmartCare\Redshift\MobileMetrics Load.sql = \\.psf\Home\Documents\Projects\SmartCare\Redshift\MobileMetrics Load.sql
+		\\.psf\Home\Documents\Projects\SmartCare\Redshift\SBS Load.sql = \\.psf\Home\Documents\Projects\SmartCare\Redshift\SBS Load.sql
+		\\.psf\Home\Documents\Projects\SmartCare\Redshift\Songpal Load DynamoDB Extract.sql = \\.psf\Home\Documents\Projects\SmartCare\Redshift\Songpal Load DynamoDB Extract.sql
+		\\.psf\Home\Documents\Projects\SmartCare\Redshift\Songpal Load.sql = \\.psf\Home\Documents\Projects\SmartCare\Redshift\Songpal Load.sql
+		\\.psf\Home\Documents\Projects\SmartCare\Redshift\Songpal Reports 2.sql = \\.psf\Home\Documents\Projects\SmartCare\Redshift\Songpal Reports 2.sql
+		\\.psf\Home\Documents\Projects\SmartCare\Redshift\Songpal Reports.sql = \\.psf\Home\Documents\Projects\SmartCare\Redshift\Songpal Reports.sql
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckDomoExtract", "CheckDomoExtract\CheckDomoExtract.csproj", "{E5E002DD-A596-4BEA-953C-F88B79932DE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertExceltoCSV", "ConvertExceltoCSV\ConvertExceltoCSV.csproj", "{E967035E-911F-40A1-B5BE-DFAA8A5E7F4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonSpec", "JsonSpec\JsonSpec\JsonSpec.csproj", "{1126FB24-0A08-48C6-A7BF-15004F4B4C12}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "NodejsConsoleApp1", "NodejsConsoleApp1\NodejsConsoleApp1.njsproj", "{16FFF6BB-BF9C-41EC-A28E-17B422B5E98D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "s3downloader", "s3downloader\s3downloader\s3downloader.csproj", "{432DFB62-5AD3-421B-ACAA-6032CD2F4A56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S3Process", "S3Process\S3Process.csproj", "{2ECCA326-DA2E-4B3E-8152-459FF716B7FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43954AAA-9425-4E66-8BD0-7FCCA638CF17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43954AAA-9425-4E66-8BD0-7FCCA638CF17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43954AAA-9425-4E66-8BD0-7FCCA638CF17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43954AAA-9425-4E66-8BD0-7FCCA638CF17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5E002DD-A596-4BEA-953C-F88B79932DE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5E002DD-A596-4BEA-953C-F88B79932DE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5E002DD-A596-4BEA-953C-F88B79932DE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5E002DD-A596-4BEA-953C-F88B79932DE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E967035E-911F-40A1-B5BE-DFAA8A5E7F4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E967035E-911F-40A1-B5BE-DFAA8A5E7F4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E967035E-911F-40A1-B5BE-DFAA8A5E7F4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E967035E-911F-40A1-B5BE-DFAA8A5E7F4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1126FB24-0A08-48C6-A7BF-15004F4B4C12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1126FB24-0A08-48C6-A7BF-15004F4B4C12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1126FB24-0A08-48C6-A7BF-15004F4B4C12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1126FB24-0A08-48C6-A7BF-15004F4B4C12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16FFF6BB-BF9C-41EC-A28E-17B422B5E98D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16FFF6BB-BF9C-41EC-A28E-17B422B5E98D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16FFF6BB-BF9C-41EC-A28E-17B422B5E98D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16FFF6BB-BF9C-41EC-A28E-17B422B5E98D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{432DFB62-5AD3-421B-ACAA-6032CD2F4A56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{432DFB62-5AD3-421B-ACAA-6032CD2F4A56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{432DFB62-5AD3-421B-ACAA-6032CD2F4A56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{432DFB62-5AD3-421B-ACAA-6032CD2F4A56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2ECCA326-DA2E-4B3E-8152-459FF716B7FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ECCA326-DA2E-4B3E-8152-459FF716B7FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ECCA326-DA2E-4B3E-8152-459FF716B7FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2ECCA326-DA2E-4B3E-8152-459FF716B7FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
