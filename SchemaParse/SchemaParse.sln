@@ -5,6 +5,19 @@ VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "SchemaParse", "SchemaParse.njsproj", "{43954AAA-9425-4E66-8BD0-7FCCA638CF17}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Redshift", "Redshift", "{D453454E-D12C-4C2F-8FA2-DCA829092B38}"
+	ProjectSection(SolutionItems) = preProject
+		\\.psf\Home\Documents\Projects\SmartCare\Redshift\Call Center Load.sql = \\.psf\Home\Documents\Projects\SmartCare\Redshift\Call Center Load.sql
+		\\.psf\Home\Documents\Projects\SmartCare\Redshift\Create Tables TEMP only.sql = \\.psf\Home\Documents\Projects\SmartCare\Redshift\Create Tables TEMP only.sql
+		\\.psf\Home\Documents\Projects\SmartCare\Redshift\Firehose Tables.sql = \\.psf\Home\Documents\Projects\SmartCare\Redshift\Firehose Tables.sql
+		\\.psf\Home\Documents\Projects\SmartCare\Redshift\MobileMetrics Load.sql = \\.psf\Home\Documents\Projects\SmartCare\Redshift\MobileMetrics Load.sql
+		\\.psf\Home\Documents\Projects\SmartCare\Redshift\SBS Load.sql = \\.psf\Home\Documents\Projects\SmartCare\Redshift\SBS Load.sql
+		\\.psf\Home\Documents\Projects\SmartCare\Redshift\Songpal Load DynamoDB Extract.sql = \\.psf\Home\Documents\Projects\SmartCare\Redshift\Songpal Load DynamoDB Extract.sql
+		\\.psf\Home\Documents\Projects\SmartCare\Redshift\Songpal Load.sql = \\.psf\Home\Documents\Projects\SmartCare\Redshift\Songpal Load.sql
+		\\.psf\Home\Documents\Projects\SmartCare\Redshift\Songpal Reports 2.sql = \\.psf\Home\Documents\Projects\SmartCare\Redshift\Songpal Reports 2.sql
+		\\.psf\Home\Documents\Projects\SmartCare\Redshift\Songpal Reports.sql = \\.psf\Home\Documents\Projects\SmartCare\Redshift\Songpal Reports.sql
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
