@@ -18,10 +18,10 @@ var numSecurityChecks = 0;
 var control = {
     files: null,
     extension: null
-}
+};
 
-initialize();
-processFiles();
+if(initialize())
+    processFiles();
 
 return;
 
@@ -34,6 +34,11 @@ function initialize() {
     .parse(process.argv);
     
     control.files = commander.files;
+    if(!control.files) {
+        commander.outputHelp();
+        return false;
+    }
+
     if ("ext" in commander && commander.ext) {
         control.extension = commander.ext.toUpperCase();
     }
@@ -43,6 +48,7 @@ function initialize() {
         console.log("Finished with code:", code);
     });
 
+    return true;
 }
 
 function processFiles() {
@@ -77,12 +83,11 @@ function processFiles() {
                         }
                     }
                 });
-            }
+            };
             
             if ( files.length)
                 func(0);
 
-            var x = 1;
         } catch (ex) {
             console.log(ex);
         }
