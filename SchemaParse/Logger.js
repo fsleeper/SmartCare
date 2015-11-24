@@ -10,7 +10,7 @@ function Logger() {
         }
 
         console.log(msg);
-    }
+    };
 
     this.Log2 = function(file, numJSONRows, numGoodJSON, numBadJSON, goodSongPal, goodSBS,  isTest, isSecurityCheck) {
         console.log("File: " + file + ", Num JSON: " + numJSONRows + ", Good JSON: " + numGoodJSON + ", Bad JSON: " + numBadJSON + ", Tests: " + isTest + ", Security Check: " + isSecurityCheck + ", Good SongPal: " + goodSongPal + ", Good SBS: " + goodSBS);

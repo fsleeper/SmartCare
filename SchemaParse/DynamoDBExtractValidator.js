@@ -9,7 +9,7 @@ SBSValidator.prototype.isValidNameAndPartner = function (jsonObject) {
     return (
         "appInfo" in jsonObject &&
         "partnerInfo" in jsonObject);
-}
+};
 
 SBSValidator.prototype.isValid = function (jsonObject) {
     var returnInfo = { isValid: false };
@@ -26,7 +26,7 @@ SBSValidator.prototype.isValid = function (jsonObject) {
         "s" in jsonObject.Context);
     
     return returnInfo;
-}
+};
 
 module.exports = new SBSValidator();
 

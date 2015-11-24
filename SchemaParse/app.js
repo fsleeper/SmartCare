@@ -4,16 +4,18 @@ var files           = require("./Files");
 var commander       = require("commander");
 var FileProcessor   = require("./FileProcessor");
 var log             = require("./Logger");
+var config          = require("config");
+
 var Logger          = new log();
 
-var numJSONRows = 0;
-var numBadJSON = 0;
-var numGoodJSON = 0;
-var goodSongPal = 0;
-var goodSBS = 0;
-var numfiles = 0;
-var numTests = 0;
-var numSecurityChecks = 0;
+var numJSONRows         = 0;
+var numBadJSON          = 0;
+var numGoodJSON         = 0;
+var goodSongPal         = 0;
+var goodSBS             = 0;
+var numfiles            = 0;
+var numTests            = 0;
+var numSecurityChecks   = 0;
 
 var control = {
     files: null,
@@ -27,12 +29,13 @@ return;
 
 
 function initialize() {
+
     commander
     .version("0.0.1")
     .option("-f, --files [file/directory]", "The file or directory of files to parse")
     .option("-e, --ext [extension]", "The extension of files to process, such as json, txt or use --ext none for files with NO extension")
     .parse(process.argv);
-    
+
     control.files = commander.files;
     if(!control.files) {
         commander.outputHelp();

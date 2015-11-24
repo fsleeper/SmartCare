@@ -1,5 +1,5 @@
-﻿var _ = require("underscore");
-var __ = require("underscore.string");
+﻿var _   = require("underscore");
+var __  = require("underscore.string");
 var AJV = require("ajv");
 
 var schemaValidator = AJV({
@@ -243,7 +243,7 @@ SBSValidator.prototype.findMatchingSchema = function (jsonObject) {
     }
     
     return null;
-}
+};
 
 SBSValidator.prototype.isValidNameAndPartner = function (jsonObject) {
     return (
@@ -252,7 +252,7 @@ SBSValidator.prototype.isValidNameAndPartner = function (jsonObject) {
             jsonObject.appInfo.name === this.appName && 
             jsonObject.partnerInfo.partnerId === this.partnerID
     );
-}
+};
 
 SBSValidator.prototype.getType = function (jsonObject) {
     
@@ -269,7 +269,7 @@ SBSValidator.prototype.getType = function (jsonObject) {
     }
 
     return "unknown";
-}
+};
 
 SBSValidator.prototype.isValid = function (jsonObject) {
     var returnInfo = { isValid: false, schemaType: "unknown" };
@@ -289,6 +289,6 @@ SBSValidator.prototype.isValid = function (jsonObject) {
     }
     
     return returnInfo;
-}
+};
 
 module.exports = new SBSValidator();

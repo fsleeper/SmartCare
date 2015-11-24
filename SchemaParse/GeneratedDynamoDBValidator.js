@@ -12,7 +12,7 @@ GeneratedDynamoDBValidator.prototype.isValid = function (jsonObject) {
         "Key" in jsonObject);
     
     return returnInfo;
-}
+};
 
 module.exports = new GeneratedDynamoDBValidator();
 

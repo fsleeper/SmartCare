@@ -1,7 +1,6 @@
 ﻿var fs = require("fs");
 var path = require("path");
 
-
 exports.getFiles = function (filepath, callback) {
     
     var result = [];
@@ -53,4 +52,4 @@ exports.getFiles = function (filepath, callback) {
     }
     
     traverseFiles();
-}
+};

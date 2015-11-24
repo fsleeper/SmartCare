@@ -12,7 +12,7 @@ SongPalValidator.prototype.isValidNameAndPartner = function (jsonObject) {
             jsonObject.appInfo.name === this.appName && 
             jsonObject.partnerInfo.partnerId === this.partnerID
     );
-}
+};
 
 SongPalValidator.prototype.getType = function (jsonObject) {
     if ("productSet" in jsonObject)
@@ -28,7 +28,7 @@ SongPalValidator.prototype.getType = function (jsonObject) {
         return "studio-api";
  */   
     return "unknown";
-}
+};
 
 SongPalValidator.prototype.isValid = function(jsonObject) {
     var returnInfo = { isValid: false, schemaType: "unknown" };
@@ -44,6 +44,6 @@ SongPalValidator.prototype.isValid = function(jsonObject) {
     }
     
     return returnInfo;
-}
+};
 
 module.exports = new SongPalValidator();

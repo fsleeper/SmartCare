@@ -58,7 +58,7 @@ function FileProcessor(control, file) {
         AWS.config.region = "us-west-2";
         AWS.config.update({ accessKeyId: "AKIAINGWZ3T5JEFEN7GQ", secretAccessKey: "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" });
         Firehose = new AWS.Firehose();
-    }
+    };
     
     // ******************************************************************************************
     // sendFinalRecords()
@@ -90,7 +90,7 @@ function FileProcessor(control, file) {
         }
 
         return length;
-    }
+    };
 
     // ******************************************************************************************
     // sendToFirehose(schemaName, jsonObject, forceSend)
@@ -118,7 +118,7 @@ function FileProcessor(control, file) {
         } catch (ex) {
             var xx = 1;
         }
-    }
+    };
 
     // ******************************************************************************************
     // processJSON(json)
@@ -131,13 +131,13 @@ function FileProcessor(control, file) {
 
         var isTest = function () {
             return appName === "INTEGRATION-TEST";
-        }
+        };
 
         var isSecurityCheck = function (jsonObject) {
             var strRep = JSON.stringify(jsonObject).toUpperCase();
             
             return __.include(strRep, "WHS") || __.include(strRep, "FILE:");
-        }
+        };
         
         var results = {
             length: 0,
@@ -216,7 +216,7 @@ function FileProcessor(control, file) {
         }
 
         return results;
-    }
+    };
 
     // ******************************************************************************************
     // validFile()
@@ -233,7 +233,7 @@ function FileProcessor(control, file) {
     
         fileExt = fileExt.replace(".", "");
         return this.control.extension === fileExt.toUpperCase();
-    }
+    };
     
     // ******************************************************************************************
     // writeStatus()
@@ -241,7 +241,7 @@ function FileProcessor(control, file) {
 
     this.writeStatus = function () {
         Logger.Log(this.status);
-    }
+    };
 
     // ******************************************************************************************
     // processFile(callback)
@@ -322,9 +322,8 @@ function FileProcessor(control, file) {
             console.log("Error reading: " + this.status.file);
             console.log(e);
             callback.complete(e, this.status);
-            return;
         }
-    }
+    };
 
     this.configureAWS();
 }
